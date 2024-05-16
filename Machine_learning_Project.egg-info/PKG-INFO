@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: Machine-learning-Project
+Version: 0.0.1
+Author: Kaushal Prajapati
+Author-email: kaushalprajapati5296@gmail.com
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: numpy
